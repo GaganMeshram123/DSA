@@ -8,9 +8,5 @@ In this journey, I'm immersing myself in the fundamental concepts of DSA. I'm st
 About Me
 
 To connect with me :
-Name: Gagan Meshram 
-GitHub:https://github.com/GaganMeshram123
 LinkedIn: https://www.linkedin.com/in/gagan-meshram-7a2102246/
-Twitter:https://twitter.com/gagan__meshram
-Instagram:https://www.instagram.com/gagan__meshram/
-Email: meshram.gagan.510@gmail.com
+ 
