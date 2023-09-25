@@ -24,7 +24,7 @@ public:
 };
 
 int main(){
-    ractangle r1;
+    rectangle r1;
     cout<<l.1<<" "<<r1.b<<endl;
 
     rectangle r2( 3,4);

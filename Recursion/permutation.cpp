@@ -19,9 +19,9 @@ void permutations(vector<string>& v, string ans, string original){
 int main(){
     string str = "123";
     vector<string> v;
-    permutations(v,"",str);
+    permutations(v,"",str);//yaha pe apne pure store ho gaye 
     for(int i=0;i<v.size();i++){
         cout <<v[i]<<endl;
-        
+
     }
 }
